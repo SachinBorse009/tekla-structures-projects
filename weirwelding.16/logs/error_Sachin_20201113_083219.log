@@ -1,0 +1,4 @@
+ASSERT: 13.11.2020 09:27:15 REASON: (!"chk_check_object(object)"), File: fun_objects.cpp, Line: 84
+ASSERT: 13.11.2020 09:35:32 REASON: (0), File: e3partf.cpp, Line: 419
+ASSERT: 13.11.2020 12:08:42 REASON: (!"chk_check_object(object)"), File: fun_objects.cpp, Line: 84
+ASSERT: 13.11.2020 12:08:45 REASON: (!"chk_check_object(object)"), File: fun_objects.cpp, Line: 84

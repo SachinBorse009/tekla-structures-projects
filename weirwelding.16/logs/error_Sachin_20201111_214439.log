@@ -1,0 +1,21 @@
+ASSERT: 11.11.2020 21:46:03 REASON: (!"chk_check_object(object)"), File: fun_objects.cpp, Line: 84
+ERROR:  11.11.2020 21:56:55 Could not find UI name for plugin named Beam
+ERROR:  11.11.2020 21:56:55 Could not find UI name for plugin named Beam
+ASSERT: 11.11.2020 22:24:04 REASON: (!"chk_check_object(object)"), File: fun_objects.cpp, Line: 84
+ASSERT: 11.11.2020 22:25:43 REASON: (!"chk_check_object(object)"), File: fun_objects.cpp, Line: 84
+ERROR:  11.11.2020 22:34:16 Could not find UI name for plugin named Beam
+ERROR:  11.11.2020 22:34:16 Could not find UI name for plugin named Beam
+ERROR:  11.11.2020 23:01:48 Could not find UI name for plugin named Tensioner brace and compression bar
+ERROR:  11.11.2020 23:01:48 Could not find UI name for plugin named Tensioner brace and compression bar
+ERROR:  11.11.2020 23:01:48 Could not find UI name for plugin named Tensioner brace and compression bar
+ERROR:  11.11.2020 23:01:49 Could not find UI name for plugin named Tensioner brace and compression bar
+ERROR:  11.11.2020 23:01:49 Could not find UI name for plugin named Tensioner brace and compression bar
+ERROR:  11.11.2020 23:01:49 Could not find UI name for plugin named Tensioner brace and compression bar
+ASSERT: 11.11.2020 23:01:59 REASON: (!"chk_check_object(object)"), File: fun_objects.cpp, Line: 84
+ASSERT: 11.11.2020 23:01:59 REASON: (!"chk_check_object(object)"), File: fun_objects.cpp, Line: 84
+ERROR:  11.11.2020 23:09:25 Could not find UI name for plugin named Beam
+ERROR:  11.11.2020 23:09:25 Could not find UI name for plugin named Beam
+ERROR:  11.11.2020 23:24:11 Could not find UI name for plugin named Beam
+ERROR:  11.11.2020 23:24:11 Could not find UI name for plugin named Beam
+ERROR:  11.11.2020 23:55:28 Could not find UI name for plugin named Beam
+ERROR:  11.11.2020 23:55:29 Could not find UI name for plugin named Beam

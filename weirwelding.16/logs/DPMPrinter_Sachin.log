@@ -1,0 +1,5 @@
+Last log path: C:\Users\Sachin\AppData\Local\Trimble\Tekla Structures\2019.0\logs\DPMPrinter_Sachin.log
+7/27/2023 12:22:02 AM:<OnTsInitialized>b__26_0:ModelLoad event triggered
+7/27/2023 12:30:05 AM:<OnTsInitialized>b__26_1:ModelSave event triggered
+7/27/2023 12:30:05 AM:Stopping:DPMPrinter Feature stopping
+7/27/2023 12:30:06 AM:Save:Saving Settings to: C:\TeklaStructuresModels\weirwelding.16\attributes\Sachin_PdfPrintOptions.xml

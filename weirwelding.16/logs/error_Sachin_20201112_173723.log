@@ -1,0 +1,13 @@
+ERROR:  12.11.2020 18:28:33 Could not find UI name for plugin named Beam
+ERROR:  12.11.2020 18:28:33 Could not find UI name for plugin named Beam
+ASSERT: 12.11.2020 18:54:23 REASON: (!"chk_check_object(object)"), File: fun_objects.cpp, Line: 84
+ERROR:  12.11.2020 19:30:58 Could not find UI name for plugin named Beam
+ERROR:  12.11.2020 19:30:58 Could not find UI name for plugin named Beam
+ERROR:  12.11.2020 20:53:41 Could not find UI name for plugin named Beam
+ERROR:  12.11.2020 20:53:41 Could not find UI name for plugin named Beam
+ERROR:  12.11.2020 21:12:08 Could not find UI name for plugin named Beam
+ERROR:  12.11.2020 21:12:09 Could not find UI name for plugin named Beam
+ERROR:  12.11.2020 22:04:12 Could not find UI name for plugin named Beam
+ERROR:  12.11.2020 22:04:13 Could not find UI name for plugin named Beam
+ERROR:  12.11.2020 22:09:05 Could not find UI name for plugin named Beam
+ASSERT: 12.11.2020 22:13:02 REASON: (!"chk_check_object(object)"), File: fun_objects.cpp, Line: 84

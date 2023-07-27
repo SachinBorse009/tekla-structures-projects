@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TeklaStructuresModels>
+<TeklaStructuresModels>
+    <Model>
+        <Name>weirwelding.16</Name>
+        <Designer>PROJ-DESIGNER</Designer>
+        <Description>PROJ-DESCRIPTION</Description>
+        <Version>2019</Version>
+        <Language>enu</Language>
+        <Template></Template>
+        <Environment>usa</Environment>
+        <IsTemplate>FALSE</IsTemplate>
+        <XS_PROJECT></XS_PROJECT>
+        <XS_FIRM></XS_FIRM>
+        <XS_SYSTEM>E:\installed_app\2019.0\environments\usa\Common\Steel\ComponentSettings\;E:\installed_app\2019.0\environments\usa\Common\Steel\DrawingSettings\;E:\installed_app\2019.0\environments\usa\Common\Steel\ModelingSettings\;E:\installed_app\2019.0\environments\us</XS_SYSTEM>
+        <ConnectedId></ConnectedId>
+    </Model>
+</TeklaStructuresModels>
